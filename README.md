@@ -1,5 +1,5 @@
 # 👷‍♀️: Building a Modular Auto-Rig
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![autodesk](https://img.shields.io/badge/Autodesk-0696D7.svg?style=for-the-badge&logo=Autodesk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![autodesk](https://img.shields.io/badge/Autodesk-0696D7.svg?style=for-the-badge&logo=Autodesk&logoColor=white) <img src="https://images.squarespace-cdn.com/content/v1/571d408e59827e9ed759cac7/1522037220693-KK3JCQ6PSZGXSM68U7GU/pyside2.jpg?format=1000w" width="97.5" height="28">
 
 ## 🏋️‍♀️: Warm-up exercise: Biped Auto-Rig
 
