@@ -7,7 +7,7 @@
 - [TD SuperHeroes](https://www.youtube.com/@TDSuperheroes)
 - [Point on Palley](https://youtube.com/playlist?list=PLzmRb2HRVMkMOt3kDfUZHbLh7OrhLuTQM)
 - [MIT OpenCourseWare - Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-- My neurons (thank you, guys)
+- 🧠
 
 
 ### 🚀: Future improvements
